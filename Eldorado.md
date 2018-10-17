@@ -1,28 +1,20 @@
 # Eldorado
 
-<p> 
 Gaily bedight,<br>
 A gallant knight,<br>
-In sunshine and in **shadow**, <br>
+In sunshine and in _shadow_, <br>
 Had journeyed long,<br>
 Singing a song,<br>
 In search of **Eldorado**. <br> 
-</p><br>
+<br>
 
-
-<p>
-But he grew old,
-
-This knight so bold,
-
-And o'er his heart a _shadow_
-
-Fell as he found
-
-No spot of ground
-
-That looked like **Eldorado**.
-</p>
+But he grew old,<br>
+This knight so bold,<br>
+And o'er his heart a _shadow_<br>
+Fell as he found<br>
+No spot of ground<br>
+That looked like **Eldorado**.<br>
+<br>
 
 
 And, as his strength
