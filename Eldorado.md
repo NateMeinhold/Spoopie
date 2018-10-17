@@ -1,10 +1,15 @@
 # Eldorado
 
 Gaily bedight,
+
 A gallant knight,
+
 In sunshine and in _shadow_,
+
 Had journeyed long,
+
 Singing a song,
+
 In search of **Eldorado**.
 
 But he grew old,
