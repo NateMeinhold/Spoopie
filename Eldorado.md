@@ -13,6 +13,7 @@ Singing a song,
 In search of **Eldorado**.
 
 
+
 But he grew old,
 
 This knight so bold,
@@ -26,6 +27,7 @@ No spot of ground
 That looked like **Eldorado**.
 
 
+
 And, as his strength
 
 Failed him at length,
@@ -37,6 +39,7 @@ He met a pilgrim _shadow_,
 "Where can it be,
 
 This land of **Eldorado**?"
+
 
 
 "Over the Mountains
