@@ -3,10 +3,10 @@
 <p> 
 Gaily bedight,<br>
 A gallant knight,<br>
-In sunshine and in _shadow_,<br>
+In sunshine and in **shadow**, <br>
 Had journeyed long,<br>
 Singing a song,<br>
-In search of **Eldorado**.<br> 
+In search of **Eldorado**. <br> 
 </p><br>
 
 
