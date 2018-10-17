@@ -17,7 +17,7 @@ That looked like **Eldorado**.<br>
 And, as his strength <br>
 Failed him at length, <br>
 He met a pilgrim _shadow_,<br>
-"Shadow," said he, <br>
+_"Shadow,"_ said he, <br>
 "Where can it be, <br>
 This land of **Eldorado**?" <br>
 
