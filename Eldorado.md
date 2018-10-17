@@ -1,12 +1,12 @@
 # Eldorado
 
 <p> 
-Gaily bedight,
-A gallant knight,
-In sunshine and in _shadow_,
-Had journeyed long,
-Singing a song,
-In search of **Eldorado**. 
+Gaily bedight,<br>
+A gallant knight,<br>
+In sunshine and in _shadow_,<br>
+Had journeyed long,<br>
+Singing a song,<br>
+In search of **Eldorado**.<br> 
 </p><br>
 
 
