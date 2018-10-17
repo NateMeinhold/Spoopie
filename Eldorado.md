@@ -16,33 +16,21 @@ No spot of ground<br>
 That looked like **Eldorado**.<br>
 <br>
 
+And, as his strength <br>
+Failed him at length, <br>
+He met a pilgrim _shadow_,<br>
+"Shadow," said he, <br>
+"Where can it be, <br>
+This land of **Eldorado**?" <br>
+<br>
 
-And, as his strength
-
-Failed him at length,
-
-He met a pilgrim _shadow_,
-
-"Shadow," said he,
-
-"Where can it be,
-
-This land of **Eldorado**?"
-
-
-
-"Over the Mountains
-
-Of the Moon,
-
-Down the Valley of the _Shadow_,
-
-Ride, boldly ride,"
-
-The shade replied,
-
-"If you seek for **Eldorado**!"
-
+"Over the Mountains <br>
+Of the Moon, <br>
+Down the Valley of the _Shadow_, <br>
+Ride, boldly ride," <br>
+The shade replied, <br>
+"If you seek for **Eldorado**!"<br>
+<br>
 
 ---Edgar Allen Poe 
    http://www.public-domain-poetry.com/edgar-allan-poe/eldorado-1710
