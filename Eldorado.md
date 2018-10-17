@@ -1,5 +1,6 @@
 # Eldorado
 
+<p> 
 Gaily bedight,
 
 A gallant knight,
@@ -10,10 +11,11 @@ Had journeyed long,
 
 Singing a song,
 
-In search of **Eldorado**.
+In search of **Eldorado**. 
+</p>
 
 
-
+<p>
 But he grew old,
 
 This knight so bold,
@@ -25,7 +27,7 @@ Fell as he found
 No spot of ground
 
 That looked like **Eldorado**.
-
+</p>
 
 
 And, as his strength
